@@ -14,8 +14,9 @@ HDFS
 ##### Software:
 Jupyter Notebook, Google Colab
 
-🌱 I’m currently learning AWS and Power BI.
-👯 I’m looking to collaborate on projects
-🤔 I’m looking for help with job referrals
-📫 How to reach me: send me an email at rayanefod@gmail.com or connect with me on LinkedIn Rayane Fodil
+
+- 🌱 I’m currently learning AWS and Power BI.
+- 👯 I’m looking to collaborate on projects
+- 🤔 I’m looking for help with job referrals
+- 📫 How to reach me: send me an email at rayanefod@gmail.com or connect with me on LinkedIn Rayane Fodil
 
